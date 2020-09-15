@@ -1,0 +1,8 @@
+version: '3'
+services:
+  web:
+    build: .
+    command: node main.js
+    network_mode: host
+    environment: 
+        PORT: 8080

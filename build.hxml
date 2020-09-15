@@ -1,0 +1,4 @@
+-lib hxnodejs
+-main Main 
+-js main.js
+# -cmd node main.js
